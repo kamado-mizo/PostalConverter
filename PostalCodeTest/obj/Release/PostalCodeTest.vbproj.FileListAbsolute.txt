@@ -1,0 +1,15 @@
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\bin\Release\PostalCodeTest.exe.config
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\bin\Release\PostalCodeTest.exe
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\bin\Release\PostalCodeTest.pdb
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\bin\Release\PostalCodeTest.xml
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.AddressCode.resources
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.CodeAddress.resources
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.List.resources
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.Main.resources
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.Resources.resources
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.vbproj.GenerateResource.Cache
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.vbproj.CoreCompileInputs.cache
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.exe
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.xml
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.pdb
+C:\Users\Mizouchi\source\repos\PostalCodeTest\PostalCodeTest\obj\Release\PostalCodeTest.converter.resources
