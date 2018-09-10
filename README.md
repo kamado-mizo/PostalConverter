@@ -5,6 +5,10 @@
 ・住所→郵便番号
 を検索するシステムです。
 
+## 実行方法
+PostalCodeTest/bin/Release/PostalConverter.exe
+を実行してください。
+
 ## 操作方法
 ### 郵便番号→住所　検索
 PostalConverterメイン画面で、Code → Addressを選択してください。  
